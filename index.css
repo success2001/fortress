@@ -1,0 +1,154 @@
+*{
+	outline:1px solid red;
+}
+body{
+	font-family: Poppins;
+}
+@media screen and (max-width:499px){
+	body{
+	background-image:linear-gradient(to right, #00206B ,#0A71C0);
+}
+main
+{
+	padding-left: 40px;
+	padding-top:80px;
+	color:white;
+}
+audio{
+	width: 300px;
+}
+.float-right{
+	float:left !important;
+}
+.image-resize{
+	width:300px !important;
+	height:300px !important;
+	padding-bottom:10px;
+}
+.btn1 {
+	/*  -webkit-border-radius: 50;
+	  -moz-border-radius: 50;*/
+	  border-radius: 80px;
+	  font-family: Poppins;
+	  color: #fcfeff;
+	  font-size: 20px;
+	  background: #EC3237;
+	  padding: 3px 15px 3px 15px;
+	  text-decoration: none;
+}
+footer{
+	background-image: linear-gradient(to right, #00206B ,#0A71C0);
+}
+}
+@media screen and (max-width: 768px) and (min-width: 500px)
+{
+body{
+	background-image: linear-gradient(to right, #00206B ,#0A71C0);
+}
+audio{
+	width:340px;
+}
+
+main
+	{
+	padding-left: 0px;
+	padding-top:150px;
+}
+.btn1 {
+	  -webkit-border-radius: 50;
+	  -moz-border-radius: 50;
+	  border-radius: 50px;
+	  font-family: Poppins;
+	  color: #fcfeff;
+	  font-size: 20px;
+	  background: #EC3237;
+	  padding: 5px 20px 5px 20px;
+	  text-decoration: none;
+}
+
+.middle{
+	text-align: center;
+}
+
+.moveright{
+	padding-left:70%;
+}
+.logo{
+	width:70px;
+	height:70px;
+}
+.paint{
+	background-color: red;
+}
+
+.image-resize{
+	width:420px;
+	height:315px;
+	padding-bottom:10px;
+}
+footer{
+	background-image: linear-gradient(to right, #00206B ,#0A71C0);
+}
+}
+@media screen and (min-width:768px)
+{
+	body{
+	background-image: linear-gradient(to right, #00206B ,#0A71C0);
+	padding-top:100px;
+	color:white;
+	font:poppins;
+}
+audio{
+	width: 420px;
+}
+	main{
+	padding-left:20px;
+}
+.btn1 {
+  -webkit-border-radius: 50;
+  -moz-border-radius: 50;
+  border-radius: 50px;
+  font-family: Poppins;
+  color: #fcfeff;
+  font-size: 20px;
+  background: #EC3237;
+  padding: 5px 20px 5px 20px;
+  text-decoration: none;
+}
+}
+
+.middle{
+	text-align: center;
+}
+.moveright{
+	padding-left:70%;
+}
+.logo{
+	width:70px;
+	height:70px;
+}
+.paint{
+	background-color: red;
+}
+
+.image-resize{
+	width:420px;
+	height:315px;
+	padding-bottom:10px;
+}
+.icons{
+	width:60px;
+	height: 60px;
+}
+.iconup{
+	padding-bottom:25px;
+	}
+.float-right{
+	padding-top:5%;
+	float:right;
+}
+footer{
+	background-color: blue;
+}
+}
+
