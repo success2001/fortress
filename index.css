@@ -46,6 +46,9 @@ footer{
 body{
 	background-image: linear-gradient(to right, #00206B ,#0A71C0);
 }
+.float-right{
+	float:left !important;
+}
 audio{
 	width:340px;
 }
