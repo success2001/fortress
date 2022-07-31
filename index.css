@@ -21,7 +21,7 @@ audio{
 .float-right{
 	float:left !important;
 }
-middle {
+.middle {
     padding-right: 30px;
     text-align: center;
 }
