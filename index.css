@@ -1,6 +1,10 @@
 body{
 	font-family: Poppins;
 }
+.container{
+	padding-right: 0px;
+	padding-left: 0px;
+}
 @media screen and (max-width:499px){
 	body{
 	background-image:linear-gradient(to right, #00206B ,#0A71C0);
