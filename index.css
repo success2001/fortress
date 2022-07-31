@@ -21,6 +21,10 @@ audio{
 .float-right{
 	float:left !important;
 }
+middle {
+    padding-right: 30px;
+    text-align: center;
+}
 .image-resize{
 	width:300px !important;
 	height:150px !important;
