@@ -23,7 +23,7 @@ audio{
 }
 .image-resize{
 	width:300px !important;
-	height:300px !important;
+	height:150px !important;
 	padding-bottom:10px;
 }
 .btn1 {
@@ -87,7 +87,7 @@ main
 
 .image-resize{
 	width:420px;
-	height:315px;
+	height:300px;
 	padding-bottom:10px;
 }
 footer{
@@ -137,7 +137,7 @@ audio{
 
 .image-resize{
 	width:420px;
-	height:315px;
+	height:300px;
 	padding-bottom:10px;
 }
 .icons{
